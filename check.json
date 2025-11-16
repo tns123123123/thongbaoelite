@@ -1,11 +1,12 @@
 {
   "status": "thatbai",
   "target": "Elite1",
-  "version": "1.5",
-  "message": "Có phiên bản update mới, update để an toàn hơn.",
+  "version": "1.6",
+  "message": "Có phiên bản update mới, bắt buộc update để không bị lỗi key",
   "message2": "Ai bị ban 1 ngày thì chơi tạm acc phụ chờ update nhé. Còn những ai chơi bình thường thì không sao",
   "updateURL": "https://testflight.apple.com/join/hQ8zuVpA"
 }
+
 
 
 
