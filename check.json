@@ -1,11 +1,12 @@
 {
   "status": "thatbai",
   "target": "Elite1",
-  "version": "1.9",
-  "message": "Có phiên bản update mới: cập nhật phiên bản mới nhất của game",
+  "version": "2.0",
+  "message": "Có phiên bản update mới",
   "message2": "Vào TF ấn vào LQ , kéo xuống ấn bản dựng trước đó cài lại bản 1.6 để tránh lỗi key nhé!",
   "updateURL": "https://testflight.apple.com/join/hQ8zuVpA"
 }
+
 
 
 
