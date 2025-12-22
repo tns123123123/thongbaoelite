@@ -1,11 +1,12 @@
 {
   "status": "thatbai",
   "target": "Elite1",
-  "version": "2.l",
-  "message": "Có phiên bản update mới",
+  "version": "2.1",
+  "message": "Có phiên bản update mới: Xóa Bug Chiêu + Auto mua bán đồ tránh ban 3y",
   "message2": "Không sử dụng Bug Chiêu & auto bán đồ tránh bị ban nhé !",
   "updateURL": "https://testflight.apple.com/join/hQ8zuVpA"
 }
+
 
 
 
